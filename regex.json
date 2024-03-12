@@ -1,0 +1,10 @@
+[
+  {
+    "regex": "[a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z]\\d\\d[a-zA-Z]\\d\\d[a-zA-Z]\\d\\d\\d[a-zA-Z]",
+    "value": "XXXXXX00X00X000X"
+  },
+  {
+    "regex": "\"\\d\\d\\d\\d\\d\"",
+    "value": "\"00000\""
+  }
+]
